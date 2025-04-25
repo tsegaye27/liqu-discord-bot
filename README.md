@@ -1,4 +1,4 @@
-# Liq'u - Discord Gemini Q&A Bot
+# Liq'u
 
 Liq'u is a simple Discord bot that I built with Node.js and TypeScript that allows users to ask questions directly to Google's Gemini AI model using a slash command.
 
@@ -28,7 +28,7 @@ Liq'u is a simple Discord bot that I built with Node.js and TypeScript that allo
 2.  **Clone the Repository:**
 
     ```bash
-    git clone <your-repo-url>
+    git clone https://github.com/tsegaye27/liqu-discord-bot.git
     cd liqu-discord-bot
     ```
 
